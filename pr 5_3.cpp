@@ -130,33 +130,7 @@ class all_round : public batting, public bowling{
 	void setall(){
 	
 	
-			cout<<endl<<"_____ALL ROUND ENTER INFORMATIN _____"<<endl;
-			cout<<"Enter all round's Name:-";
-			cin>>bat_name;
-			cout<<"Enter all round's matches:-";
-			cin>>bat_match;
-			cout<<"Enter all round's battng run:-";
-			cin>>bat_run;
-			cout<<"Enter all round's battng ball:-";
-			cin>>bat_ball;
-			cout<<"Enter all round's battng not_out:-";
-			cin>>bat_not_out;
-			cout<<"Enter all round's battng hundreds:-";
-			cin>>bat_hundreds;
-			cout<<"Enter all round's battng fifties:-";
-			cin>>bat_fifties;
-			cout<<"Enter all round's battng sixes:-";
-			cin>>bat_sixes;
-			cout<<"Enter all round's battng highest_scores:-";
-			cin>>bat_highest_scores;
-			cout<<"Enter all round's bowling run:-";
-			cin>>bowl_run;
-			cout<<"Enter all round's bowling ball:-";
-			cin>>bowl_ball;
-			cout<<"Enter all round's bowling wickets:-";
-			cin>>bowl_wickets;
-			cout<<"Enter all round's bowling maidens:-";
-			cin>>bowl_maidens;
+
 			
 			
 			
